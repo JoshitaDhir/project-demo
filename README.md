@@ -1,2 +1,3 @@
 # project-demo
-my first git repository 
+My first git repository.
+Author- Joshita Dhir 
